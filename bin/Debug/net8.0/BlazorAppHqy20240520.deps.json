@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlazorAppHqy20240520/1.0.0": {
+        "runtime": {
+          "BlazorAppHqy20240520.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorAppHqy20240520/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
